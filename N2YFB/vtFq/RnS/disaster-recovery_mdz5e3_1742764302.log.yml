@@ -1,0 +1,46 @@
+---
+# https://golangci-lint.run/usage/configuration/#config-file
+
+run:
+  timeout: 30m
+  # skip-files:
+output:
+  sort-results: true
+linters:
+  disable-all: true
+  enable:
+    - asciicheck
+    - bidichk
+    - contextcheck
+    - dupl
+    - errcheck
+    - errorlint
+    - errname
+    - exhaustive
+    - exportloopref
+    - forcetypeassert
+    - funlen
+    - goconst
+    - gocyclo
+    - goimports  # Supersedes gofmt
+    - gosec
+    - gosimple
+    - govet
+    - ineffassign
+    - lll
+    - makezero
+    - misspell
+    - nakedret
+    - revive
+    - staticcheck
+    - typecheck
+    - unconvert
+    - unparam
+    - unused
+    - whitespace
+issues:
+  exclude-rules:
+    - linters:
+        - revive
+      source: ". \"github.com/onsi/(ginkgo/v2|gomega)\""
+      text: "dot-imports: should not use dot imports"
