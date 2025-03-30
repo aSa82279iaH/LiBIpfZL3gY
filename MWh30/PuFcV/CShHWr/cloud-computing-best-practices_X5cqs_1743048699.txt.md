@@ -31,7 +31,6 @@ Key philosophical points of Scala include:
 5. **Scalability**: Suitable for both small scripts and large, complex systems.
 
 6. **Concurrent Programming**: Built-in support for actor-based concurrency with Akka.
-
 7. **Big Data Processing**: Scala is the language of choice for Apache Spark, a popular big data processing framework.
 
 8. **Active Community**: A growing ecosystem of libraries and frameworks.
