@@ -307,7 +307,6 @@ endif()
 
 if(SYSTEM.Linux AND CMAKE_SYSTEM_PROCESSOR MATCHES "arm" AND ANDROID_API_LEVAL)
     set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -D_GLIBCXX_USE_C99_MATH_TR1")
-    add_definitions(-D__ANDROID_API__=${ANDROID_API_LEVAL})
     add_definitions( -mfloat-abi=softfp )
 endif()
 
