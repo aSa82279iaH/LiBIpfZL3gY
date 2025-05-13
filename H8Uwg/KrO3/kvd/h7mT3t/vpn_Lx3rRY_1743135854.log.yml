@@ -20,7 +20,6 @@ issues:
     # These are forks of an upstream package and thus are exempt from stylistic
     # changes that would make pulling in upstream changes harder.
     - path: tempfork/.*\.go
-      text: "File is not `gofmt`-ed with `-s` `-r 'interface{} -> any'`"
     - path: util/singleflight/.*\.go
       text: "File is not `gofmt`-ed with `-s` `-r 'interface{} -> any'`"
 
