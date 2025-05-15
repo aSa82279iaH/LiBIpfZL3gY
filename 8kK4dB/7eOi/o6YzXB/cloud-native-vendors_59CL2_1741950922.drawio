@@ -39,7 +39,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="589" y="363" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="9fec3kT4lAsuusmE1DYj-3" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;publish&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="9fec3kT4lAsuusmE1DYj-2" vertex="1" connectable="0">
