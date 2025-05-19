@@ -1216,7 +1216,6 @@ void *_sbrk(int incr) {
   prev_heap = heap;
   heap += incr;
   return prev_heap;
-}
 
 int _close(int fd) {
   (void) fd;
