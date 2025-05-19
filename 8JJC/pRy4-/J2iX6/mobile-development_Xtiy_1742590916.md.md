@@ -73,7 +73,6 @@
 * [Android] Use Kotlin contracts to remove var and !! usage in RibCoroutineWorker
 * [Android] [Draft] Add capability for binding multiple Workers in specified CoroutineDispatcher  AndroidAndroid related tickets
 * [Android] Enable explicit api mode for Kotlin libraries  AndroidAndroid related tickets
-* [Android] Provide a more idiomatic Java API for RibDispatchers
 * [Android] Upgrade code formatters versions  AndroidAndroid related tickets
 * [Android] Create README for Compose Demo  AndroidAndroid related tickets
 * [Android] [Rib Worker] Specify CoroutineDispatcher for onStart/onStop and provide WorkerBinder monitoring option  AndroidAndroid related tickets
