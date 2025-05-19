@@ -21,7 +21,6 @@ def parseCommand(command):
         ClassroomHelper.listCourses()
     elif command in ("la", "listassignments"):
         ClassroomHelper.listAssignmentsBatch()
-    elif command in ("x", "exit", "stop"):
         exit(0)
     else:
         Logger.error("Unknown command!")
