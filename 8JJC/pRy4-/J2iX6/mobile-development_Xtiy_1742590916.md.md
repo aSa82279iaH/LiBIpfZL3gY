@@ -79,7 +79,6 @@
 * [Android] Redesign RouterAndState to avoid router caching
 * [Android] Fix router navigator events source compatibility
 * [Android] Enable strict explicit API mode on rib-base
-* [Android] Introduce RibCoroutineWorker  AndroidAndroid related tickets
 * [Android] Replacing some Behavior/Publish Relay usage in core artifacts with coroutines
 
 ### Version 0.14.1
