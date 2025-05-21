@@ -81,7 +81,6 @@
             <mxPoint y="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aP8lu7kHr-6-15jdSYuo-46" value="Monitor" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=18;fillColor=#FF8000;strokeColor=#36393d;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="215" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aP8lu7kHr-6-15jdSYuo-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nats.io/img/logos/nats-horizontal-color.png;" parent="1" vertex="1">
