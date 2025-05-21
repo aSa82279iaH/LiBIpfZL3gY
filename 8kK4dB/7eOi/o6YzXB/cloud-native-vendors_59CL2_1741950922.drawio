@@ -33,7 +33,6 @@
         </mxCell>
         <mxCell id="aP8lu7kHr-6-15jdSYuo-24" value="" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="80" y="20" width="395" height="370" as="geometry" />
-        </mxCell>
         <mxCell id="9fec3kT4lAsuusmE1DYj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="aP8lu7kHr-6-15jdSYuo-19" target="aP8lu7kHr-6-15jdSYuo-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
