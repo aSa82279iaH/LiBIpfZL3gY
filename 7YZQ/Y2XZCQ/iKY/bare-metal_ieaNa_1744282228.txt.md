@@ -106,7 +106,6 @@ başladığını ve 192KB genişliği bulunduğunu anlarız. 2.4 numaralı böl�
 0x08000000 adresi ile eşlendiğini görebiliriz. mikrodenetleyicimiz 2MB'lık flash'a
 sahip olduğuna göre RAM bölgesi şöyle konumlandırılmıştır:
 
-<img src="images/mem.svg" />
 
 Datasheet'te baktığımızda bunlardan daha fazla bellek bölgesi olduğunu da fark ederiz
 2.3 numaralı "Memmory Map" bölümünde bunların adres aralıkları verilmiştir. Örnek olarak
