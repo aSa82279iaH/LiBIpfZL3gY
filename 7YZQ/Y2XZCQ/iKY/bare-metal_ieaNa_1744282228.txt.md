@@ -406,7 +406,6 @@ ENTRY(_reset);
 
 Bu satır, oluşturulan ELF başlığındaki "entiry point" özniteliğinin değerini
 linker'a söyler -yani bu, vektör tablosunun sahip olduğu şeyin bir kopyasıdır-.
-Bu, debogger'a firmware'in başlangıcına breakpoint koymasına yardımcı olur.
 Debugger vektör tablosu hakkında bir şey bilemed, bu nedenle ELF başlığına ihtiyaç duyar.
 
 ```
