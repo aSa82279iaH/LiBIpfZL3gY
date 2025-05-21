@@ -1192,7 +1192,6 @@ sbrkr.c:(.text._sbrk_r+0xc): undefined reference to `_sbrk'
 closer.c:(.text._close_r+0xc): undefined reference to `_close'
 lseekr.c:(.text._lseek_r+0x10): undefined reference to `_lseek'
 fstatr.c:(.text._fstat_r+0xe): undefined reference to `_fstat'
-isattyr.c:(.text._isatty_r+0xc): undefined reference to `_isatty'
 ```
 
 newlib stdio fonksiyonlarını kullandığımız andan itibaren diğer newlib
