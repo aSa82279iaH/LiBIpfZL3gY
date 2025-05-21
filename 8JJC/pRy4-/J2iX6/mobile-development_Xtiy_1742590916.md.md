@@ -64,7 +64,6 @@
 ### Version 0.13.3
 * [Intellij] Plugin 0.1.5 
 * [Android] Clear cached CoroutineScope instance once its job completes 
-* [Android] Make all TestDispatchers in TestRibDispatchers use the same TestCoroutineScheduler
 
 ### Version 0.14.0
 * [Android] Bump Kotlin, Gradle, and other dependencies versions.
