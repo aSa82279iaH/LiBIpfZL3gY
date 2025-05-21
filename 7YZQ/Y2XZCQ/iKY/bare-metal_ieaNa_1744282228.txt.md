@@ -609,7 +609,6 @@ firmware.elf: $(SOURCES)
 
 Gördüğünüz üzere derleme flag'larını tanımladık. `?=`'nin anlamı bunu
 varsayılan değer olduğu ve komut satırından ezmemize olanak sağladığıdır.
-
 ```sh
 $ make build CFLAGS="-O2 ...."
 ```
