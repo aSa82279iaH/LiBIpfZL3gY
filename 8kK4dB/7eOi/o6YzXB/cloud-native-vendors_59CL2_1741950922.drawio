@@ -87,7 +87,6 @@
         <mxCell id="aP8lu7kHr-6-15jdSYuo-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://nats.io/img/logos/nats-horizontal-color.png;" parent="1" vertex="1">
           <mxGeometry x="216.79000000000002" y="348" width="116.42" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aP8lu7kHr-6-15jdSYuo-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;startArrow=classic;startFill=1;endArrow=classic;endFill=1;entryX=0;entryY=0.594;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="aP8lu7kHr-6-15jdSYuo-67" target="aP8lu7kHr-6-15jdSYuo-46" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="143" y="285.0000000000001" as="sourcePoint" />
             <mxPoint x="234" y="289" as="targetPoint" />
