@@ -165,7 +165,6 @@
         <mxCell id="mhKGrX9BA1GWk8lQh-1W-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn.icon-icons.com/icons2/2699/PNG/512/grafana_logo_icon_171048.png;" parent="1" vertex="1">
           <mxGeometry x="369" y="133.5" width="45" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="wrSZvNudCL4GZvBI3URx-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://raw.githubusercontent.com/kubernetes/kubernetes/master/logo/logo.png;" parent="1" vertex="1">
           <mxGeometry x="767" y="-30" width="60" height="58.26" as="geometry" />
         </mxCell>
       </root>
