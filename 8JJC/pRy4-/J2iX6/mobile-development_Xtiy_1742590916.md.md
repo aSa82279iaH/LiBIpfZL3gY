@@ -99,7 +99,6 @@
 * Deprecate old worker by @FranAguilera in https://github.com/uber/RIBs/pull/597
 * Allow overriding default CoroutineDispatcher for WorkerBinder calls by @FranAguilera in https://github.com/uber/RIBs/pull/596
 * Update README.md by @FranAguilera in https://github.com/uber/RIBs/pull/600
-* Deprecate WorkerUnbinder by @FranAguilera in https://github.com/uber/RIBs/pull/601
 * Expose ribActionEvents stream by @FranAguilera in https://github.com/uber/RIBs/pull/599
 
 ### Version 0.15.1
