@@ -811,7 +811,6 @@ register'ı vardı ve SysTick adresi 0xe000e010'idi. O zaman:
 
 ```c
 struct systick {
-  volatile uint32_t CTRL, LOAD, VAL, CALIB;
 };
 #define SYSTICK ((struct systick *) 0xe000e010)
 ```
