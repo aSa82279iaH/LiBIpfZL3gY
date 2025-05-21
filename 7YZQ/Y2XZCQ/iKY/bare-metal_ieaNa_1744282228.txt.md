@@ -672,7 +672,6 @@ Hedef dosyaları temizleyecek `clean` komutunu eklemek artık iyi bir fikir
 ```
 clean:
 	rm -rf firmware.*
-```
 
 Projenin tamamlanmış halini [steps/step-0-minimal](steps/step-0-minimal) klasöründe bulabilirsiniz.
 
