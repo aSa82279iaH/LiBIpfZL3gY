@@ -13,7 +13,6 @@ def help():
 def menu():
     parseCommand(input(Color.BLUE + "> " + Color.END))
 
-
 def parseCommand(command):
     if command in ("h", "help"):
         help()
