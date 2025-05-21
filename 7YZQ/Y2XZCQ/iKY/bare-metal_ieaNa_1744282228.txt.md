@@ -1425,7 +1425,6 @@ algoritmasını yazmaya hazırız.
 - FPU'u aç (opsiyoneldir)
 - Flash latency'i ayarla
 - Clock kaynağına, PLL, ARB1 ve APB2 preskaler'lerine karar ver
-- RCC'yi bunlara göre ata
 - Clock başlatımını tüm dosyalardan `sysinit.c` dosyasındaki startup kodunda otonatik
   olarak çağrılan `SystemInit()` fonksiyonuna topla
 
