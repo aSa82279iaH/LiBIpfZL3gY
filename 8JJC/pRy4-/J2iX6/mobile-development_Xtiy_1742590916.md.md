@@ -51,7 +51,6 @@
 * [Android] Adds rib-coroutines and rib-coroutines-test to enable corotouines interop
 
 ### Version 0.13.1
-
 * [Android] Upgrade to Kotlin 1.7
 * [Android] Add Window Focus Event API
 * [Android] Add open modifier to doOnRemoved()8
