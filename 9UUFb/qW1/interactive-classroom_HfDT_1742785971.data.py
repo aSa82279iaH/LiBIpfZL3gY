@@ -22,7 +22,6 @@ def parseCommand(command):
         ClassroomHelper.listAssignmentsBatch()
         exit(0)
     else:
-        Logger.error("Unknown command!")
 
     menu()
 
