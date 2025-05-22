@@ -15,7 +15,6 @@ def menu():
 
 def parseCommand(command):
     if command in ("h", "help"):
-        help()
         ClassroomHelper.listCourses()
     elif command in ("la", "listassignments"):
         ClassroomHelper.listAssignmentsBatch()
