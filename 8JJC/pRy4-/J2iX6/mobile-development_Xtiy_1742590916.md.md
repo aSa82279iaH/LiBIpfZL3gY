@@ -30,7 +30,6 @@
 ### Version 0.11.2
 
 * One more bugfix and log message for Kotlin migration edge case
-
 ### Version 0.11.3
 
 * Added NEW_TASK_REPLACE `RouterNavigator` flag
