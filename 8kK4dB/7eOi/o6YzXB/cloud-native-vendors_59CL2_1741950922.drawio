@@ -148,7 +148,6 @@
             <Array as="points">
               <mxPoint x="450" y="70" />
               <mxPoint x="450" y="228" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mhKGrX9BA1GWk8lQh-1W-28" value="Ingress Gateway" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=18;fillColor=#326ce5;strokeColor=#36393d;fontColor=#FFFFFF;" parent="1" vertex="1">
