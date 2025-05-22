@@ -1609,7 +1609,6 @@ işine devam edecek. Örneği inceleyebilirsiniz [example successful
 run](https://github.com/cpq/bare-metal-programming-guide/actions/runs/3840030588).
 
 ## Otomatikleştirilmiş firmware testi (hardware CI)
-
 Gerçek bir donanımda derlenmiş firmware yazılımını sadece derleme sürecini değil,
 aynı zamanda doğru ve işlevsel olup olmadığını da test etmek harika olmaz mıydı?
 
