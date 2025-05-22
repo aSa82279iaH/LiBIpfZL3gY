@@ -152,7 +152,6 @@
         </mxCell>
         <mxCell id="mhKGrX9BA1GWk8lQh-1W-28" value="Ingress Gateway" style="whiteSpace=wrap;html=1;rounded=1;dashed=1;fontSize=18;fillColor=#326ce5;strokeColor=#36393d;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="mhKGrX9BA1GWk8lQh-1W-43" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;dashed=1;fontSize=12;fontColor=#000000;fillColor=#FF8000;image=https://avatars.githubusercontent.com/u/3380462?s=200&amp;v=4;" parent="1" vertex="1">
           <mxGeometry x="300.00000000000006" y="133.5" width="45" height="45" as="geometry" />
         </mxCell>
