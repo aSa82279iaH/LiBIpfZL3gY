@@ -66,7 +66,6 @@
 ### Version 0.14.0
 * [Android] Bump Kotlin, Gradle, and other dependencies versions.
 * [Android] Provide option to bind multiple Workers at once on specific RibDispatchers  AndroidAndroid related tickets
-* [Android] Use Kotlin contracts to remove var and !! usage in RibCoroutineWorker
 * [Android] [Draft] Add capability for binding multiple Workers in specified CoroutineDispatcher  AndroidAndroid related tickets
 * [Android] Enable explicit api mode for Kotlin libraries  AndroidAndroid related tickets
 * [Android] Upgrade code formatters versions  AndroidAndroid related tickets
