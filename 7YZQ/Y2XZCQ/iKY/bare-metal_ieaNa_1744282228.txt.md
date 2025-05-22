@@ -131,7 +131,6 @@ GPIOA, GPIOB MCU'nun farklı pinlerini kontrol ederler. Aynı şekilde UART1, UA
 farklı UART kanallarını implemente ederler.Nucleo-F429'de, birden fazla GPIO and UART
 çevre birimi bulunur.
 
-GPIOA 0x40020000 adresinden başlar,bölüm 8.4'te GPIO register'larının açıklamalarına ulaşabilirsiniz
 Datasheet'in söylediğine göre `GPIOA_MODER` register'ının offset'i 0'dır,bunun anlamı
 register'ın adresi `0x40020000 + 0`'dir ve register'ın formatı şu şekildedir:
 
