@@ -39,7 +39,6 @@
 
 
 ### Version 0.12.1
-
 * `BasicComposeRouter` now auto-attaches child composable content
 ### Version 0.12.2
 
