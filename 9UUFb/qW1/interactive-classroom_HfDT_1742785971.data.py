@@ -19,7 +19,6 @@ def parseCommand(command):
     elif command in ("la", "listassignments"):
         ClassroomHelper.listAssignmentsBatch()
         exit(0)
-    else:
 
 
 if __name__ == '__main__':
