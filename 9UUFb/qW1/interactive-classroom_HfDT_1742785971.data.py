@@ -26,5 +26,4 @@ if __name__ == '__main__':
 
     Logger.success(Color.BOLD + "You are logged in as " + name)
     Logger.info("Type a command or use 'h' or 'help' for help")
-
     menu()
