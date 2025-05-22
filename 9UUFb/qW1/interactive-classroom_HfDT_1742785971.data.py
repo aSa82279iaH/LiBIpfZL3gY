@@ -1,7 +1,6 @@
 from utils import color, gclassroom, logger
 
 Classroom = gclassroom.Classroom()
-Color = color.Color()
 Logger = logger.Logger()
 
 
