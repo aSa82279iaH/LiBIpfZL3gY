@@ -1416,7 +1416,6 @@ Bölüm 6.3.3'te datasheet bize APB1 clock değerinin minimum 45MHz ve APB2 cloc
 değerinin minimum 90Mhz olması gerektiğini söyler. Bu da bize kombinasyonlarla
 dolu bir listemizin olabileceğini anlatır. Burada manuel olarak değerleri seçiyoruz.
 CubeMX gibi bu işlemi kolaylaştıran ve görselleştiren tool'ların olduğunu unutmayın.
-
 https://github.com/cpq/bare-metal-programming-guide/blob/9a3f9bc7b07d6a2a114581979e5b6715754c87c1/step-6-clock/hal.h#L20-L28
 
 Şimdi işlemci ve çevre birimleri için şöyle görülen basit bir clock ayarlama
