@@ -718,7 +718,6 @@ güç tasarrufu yapmak için varsayılan olarak çevre birimlerini devre
 dışı bırakmıştır. Bir GPIO çevre birimini etkinleştirmek için,
 RCC (Sıfırlama ve Saat Kontrolü) birimi aracılığıyla etkinleştirilmelidir(saatli).
 Datasheet'in 7.3.10 numaralı bölümünde, AHB1ENR'nin (AHB1 çevresel saat etkinleştirme kaydı)
-GPIO bankalarını açıp kapatmaktan sorumlu olduğunu görüyoruz.
 Önce biz tüm RCC birimi için bir tanım ekleyin:
 
 ```c
