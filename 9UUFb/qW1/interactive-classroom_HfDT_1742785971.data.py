@@ -22,7 +22,6 @@ def parseCommand(command):
 
 if __name__ == '__main__':
     Classroom.initialize()
-
     student = Classroom.service.userProfiles().get(userId="me").execute()
     name = student.get("name").get("fullName")
 
