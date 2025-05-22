@@ -1428,7 +1428,6 @@ algoritmasını yazmaya hazırız.
 - Clock başlatımını tüm dosyalardan `sysinit.c` dosyasındaki startup kodunda otonatik
   olarak çağrılan `SystemInit()` fonksiyonuna topla
 
-https://github.com/cpq/bare-metal-programming-guide/blob/9a3f9bc7b07d6a2a114581979e5b6715754c87c1/step-6-clock/sysinit.c#L10-L26
 
 `hal.h` dosyasındaki özellikle de UARt başlatma kodunu düzenlememiz lazım.
 Farklı UART kontrolcüleri farklı bus'larla çalışır: UART1 hızlı APB2 ile,
