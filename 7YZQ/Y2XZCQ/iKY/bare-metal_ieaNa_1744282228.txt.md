@@ -1073,7 +1073,6 @@ Artık main() fonksiyonumuzda uart'ı başlatabiliriz.
 Yeniden derleyip, tekrardan yükleyip programı ST-LINK ile termilane bağlayın.
 Mac ve Linux bilgisayarlarda, ben `cu` kullanıyorum. Windowsta ise `putty`
 kullanmak iyi bir tercih olabilir. programı çalıştırdığınızda şöyle bir
-mesaj göreceksiniz:
 
 ```sh
 $ cu -l /dev/BURAYA_SERI_PORTUNUZ_GELECEK -s 115200
