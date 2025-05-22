@@ -21,7 +21,6 @@ def parseCommand(command):
         exit(0)
     else:
 
-    menu()
 
 if __name__ == '__main__':
     Classroom.initialize()
