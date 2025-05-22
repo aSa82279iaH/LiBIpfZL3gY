@@ -84,7 +84,6 @@ make
 ## Giriş
 
 mikrodenetleyiciler (uC, veya MCU) özünde küçük bilgisayarlardır. Genellikle CPU, RAM,
-kodun yükleneceği flash ve bir avuç pin içerirler. Bazı pinler kontrolcüye güç sağlamak
 için kullanılır, bunlar çoğunlukla GND (topraklama) ve VCC pini olarak işaretlenir.
 Diğer pinler ise yüksek(high) ve alçak(low) voltaj vererek kontrolcü ile haberleşmek
 için kullanılır. Haberleşmeden kastedilenlerden en basiti LED yakmaktır. LED'in
