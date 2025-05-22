@@ -94,7 +94,6 @@
               <mxPoint x="138" y="222" />
               <mxPoint x="137" y="222" />
           </mxGeometry>
-        </mxCell>
         <mxCell id="aP8lu7kHr-6-15jdSYuo-67" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;rounded=1;dashed=1;fontSize=12;fontColor=#000000;fillColor=#FF8000;image=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png;" parent="1" vertex="1">
           <mxGeometry x="112" y="260" width="50" height="50" as="geometry" />
         </mxCell>
