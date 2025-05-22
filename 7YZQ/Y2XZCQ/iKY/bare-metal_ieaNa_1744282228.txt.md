@@ -1254,7 +1254,6 @@ Kodun tam haline [steps/step-4-printf](steps/step-4-printf) klasöründen ulaşa
 
 Firmware'iniz bir yerde takılsa ve printf çalışmasaydı ne olurdu? Ya eğer
 startup kodunuz bile çalışmıyorsa? Kesinlikle gerçek bir debuger'a ihtiyacımız
-var. Bu konuda birden fazla seçenek bulunurken ben Ozone debuger'ını kullanmanızı
 tavsiye ederim. Herhangi bir IDE kurulumuna ihtiyaç duymaz. Ozone'a doğudan
 `firmwere.elf` dosyasını verdiğimizde gidip kaynak dosyalarımıza erişir.
 
