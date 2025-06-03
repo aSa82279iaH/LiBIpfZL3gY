@@ -11,7 +11,6 @@ module.exports = {
   scopes: [],
   types: [
     {value: 'new_audit',  name: 'new_audit: A new audit'},
-    {value: 'core',       name: 'core:      Driver, gather, (non-new) audits, LHR JSON, etc'},
     {value: 'tests',      name: 'tests:     Tests, smokehouse, etc'},
     {value: 'i18n',       name: 'i18n:      Internationalization'},
     {value: 'docs',       name: 'docs:      Documentation'},
